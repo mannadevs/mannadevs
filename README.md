@@ -1,4 +1,4 @@
-Hi 👋, I'm Md Manna Ahmed
+Hi 👋, I'm Manna Ahmed
 
 <h3 align="center">A passionate frontend developer from BD</h3>
 
